@@ -22,6 +22,6 @@ Use Case Implemented:
 	* TODO:Tag recommendation functionality
 
 Limitations:
-*1. The Photoshare website is local hosted. Need to change password of MySQl before running the website.
-*2. When registering new users, if email is taken, it will return back to register page. In other words, every email can only be registered for one user.
-*3. Users have to create albums before they can upload photos.
+* 1. The Photoshare website is local hosted. Need to change password of MySQl before running the website.
+* 2. When registering new users, if email is taken, it will return back to register page. In other words, every email can only be registered for one user.
+* 3. Users have to create albums before they can upload photos.
