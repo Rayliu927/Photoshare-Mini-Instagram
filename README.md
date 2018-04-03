@@ -1,1 +1,1 @@
-# Photoshare-Mini-Instagram-
+# Photoshare-Mini-Instagram
